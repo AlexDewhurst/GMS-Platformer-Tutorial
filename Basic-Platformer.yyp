@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "6aa2d188-d87e-4fbd-8129-48da9966ae15",
+            "Value": {
+                "id": "e1dfda19-e1e3-45ea-bbbd-23cca988abbe",
+                "resourcePath": "objects\\obj_player_die\\obj_player_die.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6fa9bbd1-c789-4bfd-85d4-4ffe1e339dee",
             "Value": {
                 "id": "2ef4995c-3911-4ea3-ac9e-1e94c50a5c75",
@@ -299,6 +307,14 @@
             "Value": {
                 "id": "311413ab-4ec6-409e-b978-4fe8c6ff5081",
                 "resourcePath": "objects\\obj_ladder\\obj_ladder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d5a3a71a-480f-4d55-81fa-460ac6911a4a",
+            "Value": {
+                "id": "4011d5d4-5832-46d9-832d-9f145cf974d3",
+                "resourcePath": "objects\\obj_snake_die\\obj_snake_die.yy",
                 "resourceType": "GMObject"
             }
         },
