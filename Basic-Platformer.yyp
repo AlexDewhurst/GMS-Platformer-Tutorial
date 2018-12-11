@@ -154,7 +154,7 @@
             "Key": "5137fdf8-984d-47e2-98ac-aab17d0e2d23",
             "Value": {
                 "id": "34b34572-d47a-475d-8cb2-a56ed4e07953",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\obj_snake\\obj_snake.yy",
                 "resourceType": "GMObject"
             }
         },
