@@ -9,11 +9,11 @@ if(y + 10 < other.y)
 	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 1A8C9C34
-	/// @DnDApplyTo : 5137fdf8-984d-47e2-98ac-aab17d0e2d23
+	/// @DnDApplyTo : other
 	/// @DnDParent : 75D68F31
 	/// @DnDArgument : "objind" "obj_snake_die"
 	/// @DnDSaveInfo : "objind" "d5a3a71a-480f-4d55-81fa-460ac6911a4a"
-	with(obj_snake) instance_change(obj_snake_die, true);
+	with(other) instance_change(obj_snake_die, true);
 }
 
 /// @DnDAction : YoYo Games.Common.Else
