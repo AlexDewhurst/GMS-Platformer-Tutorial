@@ -1,10 +1,9 @@
-/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 3975FA81
-/// @DnDArgument : "health" "-0.05"
-/// @DnDArgument : "health_relative" "1"
-if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
-__dnd_health += real(-0.05);
+/// @DnDHash : 47497365
+/// @DnDArgument : "expr" "-0.05"
+/// @DnDArgument : "var" "player1_health"
+player1_health = -0.05;
 
 /// @DnDAction : YoYo Games.Movement.Set_Gravity_Force
 /// @DnDVersion : 1
